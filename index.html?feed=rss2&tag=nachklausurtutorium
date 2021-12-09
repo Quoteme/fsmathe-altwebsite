@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nachklausurtutorium &#8211; Fachschaft Mathematik</title>
+	<atom:link href="https://fsmathe.de/?feed=rss2&#038;tag=nachklausurtutorium" rel="self" type="application/rss+xml" />
+	<link>https://fsmathe.de</link>
+	<description>Heinrich-Heine-Universität Düsseldorf</description>
+	<lastBuildDate>Sat, 14 Mar 2020 18:22:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Nachklausurtutorien</title>
+		<link>https://fsmathe.de/?p=214</link>
+		<pubDate>Fri, 14 Aug 2015 15:12:36 +0000</pubDate>
+		<dc:creator><![CDATA[Oguzhan Erbay]]></dc:creator>
+				<category><![CDATA[Aktuelles]]></category>
+		<category><![CDATA[Nachklausur]]></category>
+		<category><![CDATA[Nachklausurtutorium]]></category>
+
+		<guid isPermaLink="false">http://fsmathe.de/?p=214</guid>
+		<description><![CDATA[Die Termine für die Nachklausurtutorien in der vorlesungsfreien Zeit des Sommersemesters 2015 stehen fest: Lineare Algebra I: 14. September &#8211; 21. September Uhrzeit: 10 &#8211; 16 Uhr Raum/Hörsaal: 5E Analysis I: 24. September &#8211; 1. Oktober Uhrzeit: 10 &#8211; 16 Uhr Raum/Hörsaal: 6D&#160; Lineare Algebra II: 5. Oktober &#8211; 12. Oktober Uhrzeit: 10 &#8211; 16 Uhr &#8230; <a href="https://fsmathe.de/?p=214" class="more-link">Continue reading<span class="screen-reader-text"> "Nachklausurtutorien"</span></a>]]></description>
+				<content:encoded><![CDATA[<p>Die Termine für die Nachklausurtutorien in der vorlesungsfreien Zeit des Sommersemesters 2015 stehen fest:</p>
+<div>
+<ul>
+<li><strong>Lineare Algebra I: </strong>14. September &#8211; 21. September
+<ul>
+<li>Uhrzeit: <strong>10 &#8211; 16 Uhr</strong></li>
+<li>Raum/Hörsaal: <strong>5E</strong></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong>Analysis I:</strong> 24. September &#8211; 1. Oktober
+<ul>
+<li>Uhrzeit:<strong> 10 &#8211; 16 Uhr</strong></li>
+<li>Raum/Hörsaal:<strong><strong> 6D</strong></strong>&nbsp;</li>
+</ul>
+</li>
+<li><strong>Lineare Algebra II: </strong>5. Oktober &#8211; 12. Oktober
+<ul>
+<li>Uhrzeit: <strong>10 &#8211; 16 Uhr</strong></li>
+<li>Raum/Hörsaal: <strong><strong>25.22.O0.81</strong></strong>&nbsp;</li>
+</ul>
+</li>
+<li><strong>Analysis II: </strong>24. September &#8211; 1. Oktober
+<ul>
+<li>Uhrzeit: <strong>10 &#8211; 16 Uhr</strong></li>
+<li>Raum/Hörsaal: <strong><strong>6E</strong></strong>&nbsp;</li>
+</ul>
+</li>
+<li><strong>Numerik I</strong>: 14. September &#8211; 18. September
+<ul>
+<li>Uhrzeit: <strong>10 &#8211; 15 Uhr</strong></li>
+<li>Raum/Hörsaal: <strong><span style="color: #888888;">5F</span></strong></li>
+</ul>
+</li>
+</ul>
+</div>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

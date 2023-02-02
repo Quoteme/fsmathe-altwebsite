@@ -17,7 +17,9 @@ function archive_notice() {
   notice.style.textAlign = "center";
   notice.style.fontWeight = "bold";
   notice.style.fontSize = "2rem";
+  notice.style.zIndex = "1000";
   document.body.insertBefore(notice, document.body.firstChild);
+  document.body.style.paddingTop = "4rem";
 }
 
 function main() {
